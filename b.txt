@@ -1,2 +1,2 @@
 hello from b.txt !
-
+I'm changing the content!
